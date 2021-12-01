@@ -1,14 +1,10 @@
-# <img height="50em"  align="center" src="https://cdn.panda-network.de/Logos/logo.png" /> Panda-Network - Docs
-
-<center>
+# <img height="50em"  align="center" src="https://cdn.panda-network.de/Logos/logo.png" /> Home - PnNet-Docs
 
 - [ ] Willkommen
 - [ ] Über uns
 - [ ] Standart Instaltion
 - [ ] Produkte
 - [ ] Fehler
-
-</center>
 
 ---
 
