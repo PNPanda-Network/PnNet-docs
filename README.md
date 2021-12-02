@@ -2,11 +2,9 @@
 
 \
 \
-\
 
 
-* [ ] Einführung
-* [ ] Über uns
+* [ ] Einführung | Über uns
 * [ ] Standart Instaltion
 * [ ] Produkte
 * [ ] Fehler
