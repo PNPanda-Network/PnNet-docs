@@ -1,7 +1,5 @@
 # Polas-System
 
-<br>
-
 ## Features
 
 - Polas

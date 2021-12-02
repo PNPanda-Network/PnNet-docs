@@ -9,7 +9,6 @@
 - [ ] Fehler
 - [ ] Sontiges c:
 
-<br><br>
 ---
 > Webseite: [Panda-Network.de](https://panda-network.de) \
 > Support [Discord-Server](https://discord.gg/z8ScRvf)
