@@ -1,6 +1,6 @@
 # Home - PnNet-Docs
 
-<br><br><br><br>
+<br><br><br>
 
 - [ ] Einführung
 - [ ] Über uns
