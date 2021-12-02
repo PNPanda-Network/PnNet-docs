@@ -1,17 +1,23 @@
 # Polas-System
 
+
+#### Bald bei uns erhältlich.
+Testen jederzeit möglich.
+
+<br>
+
 ## Features
 
-- Polas
+- ✔ Polas
    - Bürger & Fahrzeug suche
 
-- Aktensystem
+- ✔ Aktensystem
    - Fahdungsliste
 
-- Leistelle
-- Bußgelrechner
-- Termine
-- Mitgliederliste
-- Rechte-Einstellenung
-- Systemeinstellung
+- ✔ Leistelle
+- ✔ Bußgelrechner
+- ✔ Termine
+- ✔ Mitgliederliste
+- ✔ Rechte-Einstellenung
+- ✔ Systemeinstellung
    - Für Panelname & kleinigkeiten
