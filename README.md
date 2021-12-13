@@ -1,9 +1,9 @@
-# Home - PnNet-Docs
+# Home - Panda-Network-Docs
 
 
 
 * [ ] Einführung | Über uns
-* [ ] Standart Instaltion
+* [ ] Standard Installation
 * [ ] Produkte
 * [ ] Fehler
 * [ ] Sontiges c:
