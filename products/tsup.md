@@ -1,0 +1,4 @@
+# Teamspeak-Server Updatescript
+
+
+## Soon...
