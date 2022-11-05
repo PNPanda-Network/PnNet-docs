@@ -6,8 +6,6 @@ description: Medic Roleplay Web-Scropt
 
 #### Bald bei uns erhältlich.
 
-\
-
 ## Features
 
 * ✔ Patientenverzeichnis
@@ -17,9 +15,9 @@ description: Medic Roleplay Web-Scropt
   * Teilen der Berichte
 * ✔ Leistelle
 * ✔ Mitgliederliste
-  *  Profil
-    * Benutzerdefiniert Logo upload
-    * Passwort ändern
+  * Profil
+  * Benutzerdefiniert Logo upload
+  * Passwort ändern
 * ✔ Einstellenungen
   * einfache Rechte bearbeitung
   * einfache Akten Title Anlegen & Löschen

@@ -6,9 +6,6 @@ description: Polizei Roleplay Web-Script
 
 #### Bald bei uns erhältlich.
 
-\
-
-
 ## Features
 
 * ✔ Polas
