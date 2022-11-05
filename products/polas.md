@@ -24,6 +24,5 @@ description: Polizei Roleplay Web-Script
     * Benutzerdefiniert Logo upload
 * ✔ Rechte-Einstellenung
   * einfache Rechte bearbeitung
-  * einfache Ränge/Rechte hinzufügen & entfernen
 * ✔ Systemeinstellung
   * Für Panelname & kleinigkeiten
