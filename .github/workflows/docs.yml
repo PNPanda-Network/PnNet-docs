@@ -1,0 +1,29 @@
+name: Push to docs branch
+on:
+  push:
+    branches:
+      - 'main'
+permissions:
+  contents: write
+jobs:
+  Update_Docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "${{ secrets.email }}"
+          git config --global user.name "${{ secrets.username }}"
+
+      - name: Push to docs branch
+        run: |
+          git checkout docs || git checkout --orphan docs
+          git rm --ignore-unmatch -rf .
+          git checkout ${{ github.event.after }} -- docs
+          git add -A
+          git commit -m "Update docs (${{ github.sha }})"
+          git push origin docs --force
