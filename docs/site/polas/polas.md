@@ -1,8 +1,6 @@
+# Polas-System Features
+
 ---
-
-# Polas-System
-
-## Features
 
 * ✔ Polas
   * Bürger & Fahrzeug suche

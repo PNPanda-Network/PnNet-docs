@@ -1,10 +1,6 @@
+# PV-System Features
+
 ---
-
-# PV-System
-
-#### Bald bei uns erhältlich.
-
-## Features
 
 - ✔ Patientenverzeichnis
   - Bürger suche

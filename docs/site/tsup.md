@@ -2,7 +2,7 @@
 
 Ein leichtgewichtiges Skript zum Installieren oder Aktualisieren eines TeamSpeak 3-Servers unter Linux oder FreeBSD.
 
-##
+## Requirements
 
 - **jq** 1.6 or newer (https://stedolan.github.io/jq/download/)
 - curl
