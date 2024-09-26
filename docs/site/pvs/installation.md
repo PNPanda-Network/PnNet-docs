@@ -6,19 +6,19 @@ Um die Software erfolgreich zu installieren, benötigen Sie:
 
 - Einen funktionierenden Webspace mit Apache Server
 - PHP Version 7.4 oder höher
-- Eine MySQL/MariaDB-Datenbank oder eine ähnliche Datenbank
+- Eine MySQL/MariaDB-Datenbank
 
 ## Installation
 
-1. **Dateien hochladen**  
+1. **Dateien hochladen**
    Entzippen Sie die bereitgestellten Dateien und laden Sie diese anschließend auf Ihren Webspace hoch.
 
-   ![Webspace-Files](../../_media/webspace_files.png)
+   ![Webspace-Files](../../assets/images/webspace_pvs.png)
 
-2. **Datenbank einrichten**  
+2. **Datenbank einrichten**
    Erstellen Sie eine neue Datenbank. Importieren Sie anschließend die Datei `DATABASE/pn_pvssystem.sql` in diese Datenbank.
 
-3. **Konfiguration anpassen**  
+3. **Konfiguration anpassen**
    Öffnen Sie die Datei `inc/config.php` und passen Sie in den Zeilen `16` bis `18` die Datenbankverbindung an:
 
    ```php
@@ -28,12 +28,12 @@ Um die Software erfolgreich zu installieren, benötigen Sie:
    $password = 'DBPASSWORD';
    ```
 
-4. **Zugriff auf die Webseite**  
+4. **Zugriff auf die Webseite**
    Sobald die Konfiguration abgeschlossen ist, können Sie die Webseite aufrufen. Verwenden Sie die folgenden Anmeldedaten, um sich einzuloggen:
 
    ```
-   Benutzername: admin  
-   Passwort: admin  
+   Benutzername: admin
+   Passwort: admin
    ```
 
    **Wichtiger Hinweis:** Bitte ändern Sie das Passwort umgehend, da dies die Standardanmeldedaten für alle neuen Installationen sind und vollständigen Zugriff gewähren.
